@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1482458216 source:f:\fc1_afrie_irham\tutorial 4\1.c
+	<stdio.h>
+	<math.h>
+
+1482460482 source:f:\fc1_afrie_irham\tutorial 4\2.c
+	<stdio.h>
+	<math.h>
+

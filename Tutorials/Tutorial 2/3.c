@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <math.h>
+
+#define SGD 3.07
+#define USD 4.40
+#define GBP 5.47
+#define EUR 4.64
+#define A(x) x*SGD
+#define B(x) x*USD
+#define C(x) x*GBP
+#define D(x) x*EUR
+
+int main (void)
+
+ {
+    float T;
+    printf ("Enter the amount of money in 2 decimal point : ");
+    scanf("%f", &T);
+    printf ("%.2f SGD = %.2f MYR\n",T,A(T));
+    printf ("%.2f USD = %.2f MYR\n",T,B(T));
+    printf ("%.2f GBP = %.2f MYR\n",T,C(T));
+    printf ("%.2f EUR = %.2f MYR\n",T,D(T));
+    return 0;
+
+ }
+

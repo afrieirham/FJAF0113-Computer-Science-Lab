@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481247849 source:c:\users\student.bilikkomputer\desktop\computer science\tutorial 2\main.c
+	<stdio.h>
+
+1481250577 source:c:\users\student.bilikkomputer\desktop\computer science\tutorial 2\3.c
+	<stdio.h>
+	<math.h>
+
+1481252284 source:c:\users\student.bilikkomputer\desktop\computer science\tutorial 2\2.c
+	<stdio.h>
+
